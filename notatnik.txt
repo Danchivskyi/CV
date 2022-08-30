@@ -1,0 +1,42 @@
+            <div>
+                <h2 class="header-primary">Work Experience</h2>
+    
+                <h3 class="job-name">Front-End Developer <span class="highlight">Freeelance</span></h3>
+    
+                <p class="job-date">September 2019 - up to now | Country</p>
+    
+                <ul class="job-list">
+                    <li>
+                        Lorem ipsum ...
+                    </li>
+                    <li>Lorem ipsum ...</li>
+                    <li>Lorem ipsum ...</li>
+                </ul>
+            </div>
+    
+            <div>
+                <h3 class="job-name">Manager <span class="highlight">Glory New</span></h3>
+                <p class="job-date">March 2015 - October 2018 | Country</p>
+    
+                <ul class="job-list">
+                    <li>
+                        Lorem ipsum ...
+                    </li>
+                    <li>Lorem ipsum ...</li>
+                    <li>Lorem ipsum ...</li>
+                </ul>
+            </div>
+    
+    
+            <div>
+                <h3 class="job-name">Praktyka w HatPol Antoni Hat <span class="highlight">Nowy Sącz</span></h3>
+                <p class="job-date" >12.07.2021-06.08.2021</p>
+    
+                <ul class="job-list">
+                    <li>
+                        Instalacja systemów CRM na serwerze ftp oraz bazie danych
+                    </li>
+                    <li>Skonfigurowanie systemów</li>
+                    <li>Przygotowanie konfiguracji pod stanowisko telemarketera</li>
+                </ul>
+            </div>
